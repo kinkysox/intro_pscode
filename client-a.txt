@@ -1,4 +1,45 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
-# ------------------------------------------------- #
+# ------------START
+Computer generates a number 1..10
+“Can you guess the number? You have 3 chances.”
+
+Instance 1:
+Player types number between 1 and 10 in box
+If correct
+	Write “You lucky duck! You guessed it.”
+	Ask “Would you like to play again?”
+	Display buttons for Yes and No
+	If player clicks Yes, then loop back to beginning
+	If player clicks No, then write “Great job! See you soon.”
+Else
+	Write “Sorry! Try again.”
+
+Instance 2:
+Player chooses number
+If correct
+	Write “You lucky duck! You guessed it.”
+	Ask “Would you like to play again?”
+	Display buttons for Yes and No
+	If player clicks Yes, then loop back to beginning
+	If player clicks No, then write “Great job! See you soon.”
+Else
+	Write “Sorry! Try again.”
+
+Instance 3:
+Player chooses number
+If correct
+	Write “You lucky duck! You guessed it.”
+	Ask “Would you like to play again?”
+	Display buttons for Yes and No
+	If player clicks Yes, then loop back to beginning
+	If player clicks No, then write “Great job! See you soon.”
+Else
+	Write “Sorry, you lose. Better luck next time!”
+Ask “Would you like to play again?”
+	Display buttons for Yes and No
+	If player clicks Yes, then loop back to beginning
+	If player clicks No, then exit
+END
+----------- #
 

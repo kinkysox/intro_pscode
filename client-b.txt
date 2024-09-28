@@ -1,4 +1,10 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
-# ------------------------------------------------- #
+# ---START
+Display current location (X, Y)
+If location is (X2, Y2)
+	Write  “You have arrived!”
+Else person walks north (+Y), south (-Y), east (+X) or west (-X)
+END
+---------------------------------------------- #
 

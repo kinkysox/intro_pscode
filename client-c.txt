@@ -1,4 +1,14 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
-# ------------------------------------------------- #
+# 
+//Should say prints numbers from 2 to 100, counting by twos, since each case fits 50 packages of 2.
+
+START
+Set variable 'i' to 2
+WHILE 'i' is less than or equal to 100
+    Print 'i'
+    Increment 'i' by 2
+END WHILE
+END
+ #
 
